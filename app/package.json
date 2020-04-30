@@ -90,6 +90,12 @@
     "unused-filename": "^0.1.0",
     "utp-native": "^2.0.0",
     "yo-yo": "^1.4.0",
-    "zerr": "^1.0.4"
-  }
+    "zerr": "^1.0.4",
+    "snyk": "^1.316.1"
+  },
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
+  },
+  "snyk": true
 }
