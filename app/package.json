@@ -67,7 +67,7 @@
     "nat-upnp": "^1.1.1",
     "normalize-url": "^1.9.1",
     "once": "^1.4.0",
-    "os-name": "^2.0.1",
+    "os-name": "^3.0.0",
     "parse-dat-url": "^3.0.1",
     "pauls-dat-api": "^8.0.1",
     "pauls-electron-rpc": "^5.0.0",
